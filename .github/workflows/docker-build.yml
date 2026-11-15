@@ -1,6 +1,6 @@
-name: Dcoker Build CI
+name: Docker Build CI
 on:
-  psuh:
+  push:
     branches:
       - main
 jobs:
